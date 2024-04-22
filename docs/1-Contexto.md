@@ -1,13 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O crescimento do interesse por um estilo de vida mais saudável tem refletido no aumento do número de frequentadores de academias, conforme indicado pelo levantamento do Itaú Unibanco, que registrou um crescimento de 35% nas transações com academias este ano. Este aumento, porém, tem gerado superlotação, transformando o ambiente em um espaço estressante e pouco acolhedor, o que pode levar à desistência de muitos usuários. Diante deste contexto, nosso projeto visa desenvolver soluções para reduzir a superlotação em academias, melhorando assim a experiência dos frequentadores e promovendo a adesão a hábitos saudáveis de forma sustentável.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A superlotação em academias tem impactado negativamente a experiência dos usuários, aumentando o tempo de espera por equipamentos e criando um ambiente estressante. Este projeto se propõe a desenvolver um sistema capaz de identificar os horários de pico e gerenciar o fluxo de usuários, permitindo uma distribuição mais equilibrada e eficiente do uso dos equipamentos. O contexto de aplicação será inicialmente em academias de médio a grande porte, que enfrentam maiores desafios de gerenciamento de espaço e equipamentos.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,28 +12,31 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral
+Desenvolver um software capaz de gerenciar academias, proporcionando uma melhor experiência para os usuários e promovendo saúde e bem-estar de forma sustentável.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
+Objetivos Específicos
+Identificar os horários de maior frequência e os padrões de utilização dos equipamentos através de análise de dados.
+Implementar um sistema de agendamento e notificações para otimizar o uso dos equipamentos durante os horários de pico.
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A necessidade de melhorar a experiência dos frequentadores de academias e promover um estilo de vida saudável justifica este projeto. Além disso, a implementação de um sistema de gestão de fluxo pode significativamente diminuir o estresse e a frustração associados à espera por equipamentos, contribuindo para a retenção de clientes e a saúde mental dos usuários. A relevância do projeto é respaldada por dados estatísticos e feedback dos usuários, que indicam uma demanda crescente por soluções tecnológicas que facilitam a gestão de recursos em espaços fitness.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo do nosso projeto inclui:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Frequentadores de academias: Desde iniciantes que podem se sentir intimidados pela superlotação até veteranos que procuram otimizar seu tempo de treino.
+Gestores de academias: Interessados em melhorar a qualidade do serviço oferecido, aumentar a satisfação dos clientes e otimizar o uso dos recursos disponíveis.
+Proprietários de academias: Que enfrentam desafios em manter seus negócios competitivos e atraentes para um público diversificado.
+Estes grupos serão beneficiados diretamente pelas soluções desenvolvidas, que visam criar um ambiente mais organizado e menos saturado, onde todos podem alcançar seus objetivos de saúde e fitness de maneira eficaz e satisfatória.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
