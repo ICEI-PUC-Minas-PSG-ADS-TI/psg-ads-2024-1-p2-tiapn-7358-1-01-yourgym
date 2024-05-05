@@ -10,28 +10,28 @@
 Atualmente, o gerenciamento das academias de médio a grande porte enfrenta desafios significativos relacionados à superlotação e à otimização do uso dos equipamentos. Os processos atuais geralmente são realizados manualmente ou com o auxílio de sistemas básicos de controle de acesso e agendamento.
 
 Coleta e Análise de Dados de Frequência:
-A coleta de dados de frequência dos usuários e utilização dos equipamentos é feita de forma manual por meio de registros em planilhas ou sistemas simples.
-Não há uma análise sistemática dos dados para identificar padrões de utilização ou horários de pico.
+- A coleta de dados de frequência dos usuários e utilização dos equipamentos é feita de forma manual por meio de registros em planilhas ou sistemas simples.
+- Não há uma análise sistemática dos dados para identificar padrões de utilização ou horários de pico.
 
 Agendamento e Reserva de Equipamentos:
-Os usuários realizam o agendamento de aulas ou uso de equipamentos de forma presencial ou por telefone.
-A alocação de horários é feita de maneira estática, sem considerar a disponibilidade real dos equipamentos.
+- Os usuários realizam o agendamento de aulas ou uso de equipamentos de forma presencial ou por telefone.
+- A alocação de horários é feita de maneira estática, sem considerar a disponibilidade real dos equipamentos.
 
 Controle de Acesso e Fluxo de Usuários:
-O controle de acesso é feito por meio de cartões ou registros manuais de entrada e saída.
-Não há uma gestão ativa do fluxo de usuários, resultando em áreas de superlotação em determinados horários.
+- O controle de acesso é feito por meio de cartões ou registros manuais de entrada e saída.
+- Não há uma gestão ativa do fluxo de usuários, resultando em áreas de superlotação em determinados horários.
 
 Otimização de Equipamentos:
-A disponibilidade dos equipamentos mais utilizados não é monitorada em tempo real.
-Não há sistemas automáticos para sugerir alternativas ou redistribuir o uso dos equipamentos durante os períodos de alta demanda.
+- A disponibilidade dos equipamentos mais utilizados não é monitorada em tempo real.
+- Não há sistemas automáticos para sugerir alternativas ou redistribuir o uso dos equipamentos durante os períodos de alta demanda.
 
 Comunicação com os Usuários:
-As comunicações com os usuários são limitadas e dependem principalmente de avisos físicos nas instalações.
-Os usuários não recebem notificações proativas sobre horários disponíveis ou alterações na programação.
+- As comunicações com os usuários são limitadas e dependem principalmente de avisos físicos nas instalações.
+- Os usuários não recebem notificações proativas sobre horários disponíveis ou alterações na programação.
 
 Feedback e Melhorias:
-A coleta de feedback dos usuários é informal e não estruturada.
-Não há processos claros para implementar melhorias com base nos insights dos usuários ou nos dados de desempenho.
+- A coleta de feedback dos usuários é informal e não estruturada.
+- Não há processos claros para implementar melhorias com base nos insights dos usuários ou nos dados de desempenho.
 
 
 Com o tema do projeto definido, escolham alguns processos neste contexto de negócios. Para ilustrar potenciais ganhos com a automatização, imaginem processos manuais, ineficientes e/ou com muitas idas e vindas, gerando, assim, retrabalho.
