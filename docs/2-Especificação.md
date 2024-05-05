@@ -2,9 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A superlotação em academias tem impactado negativamente a experiência dos usuários, aumentando o tempo de espera por equipamentos e criando um ambiente estressante. Este projeto se propõe a desenvolver um sistema capaz de identificar os horários de pico e gerenciar o fluxo de usuários, permitindo uma distribuição mais equilibrada e eficiente do uso dos equipamentos. O contexto de aplicação será inicialmente em academias de médio a grande porte, que enfrentam maiores desafios de gerenciamento de espaço e equipamentos.
 
 ## Personas
 
