@@ -64,8 +64,10 @@ Melhoria Proposta:
 
 ### 3.3. Modelagem dos processos
 
-[PROCESSO 1 - Nome do Processo](./processos/processo-1-nome-do-processo.md "Detalhamento do Processo 1.")
+[PROCESSO 1 - Feedback dos CLientes]![Imagem do WhatsApp de 2024-04-07 à(s) 16 47 17_09d066a9](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/144366436/04bed3e9-7709-4c53-a820-0f8cc21fddcf)
 
-[PROCESSO 2 - Nome do Processo](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
+[PROCESSO 2 - Acesso Remoto] ![Imagem do WhatsApp de 2024-04-07 à(s) 16 47 17_112a89f4](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/144366436/c5dc5914-c2a9-4c81-ba59-92fb67337618)
+
 
 [PROCESSO 3 - Nome do Processo](./processos/processo-3-nome-do-processo.md "Detalhamento do Processo 3.")
