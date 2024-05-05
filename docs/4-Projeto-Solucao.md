@@ -1,4 +1,4 @@
-![Diagrama arquitetura software Yourgym drawio](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/8d935d34-484c-44c0-8dba-c1c743021e81)## 4. Projeto da Solução
+## 4. Projeto da Solução
 
 <span style="color:red">Pré-requisitos: <a href="03-Modelagem do Processo de Negocio.md"> Modelagem do Processo de Negocio</a></span>
 
@@ -9,7 +9,8 @@
 
  **Diagrama de Arquitetura**:
  
-![Diagrama arquitetura software Yourgym drawio](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/53f4d6db-e5fc-4940-ac0c-5f145e64fc4b)
+![Diagrama arquitetura software Yourgym drawio](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/3a0a572d-ccb2-40bc-8694-7cebb5818a5e)
+
 
  
  
