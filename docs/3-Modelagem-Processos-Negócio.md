@@ -57,10 +57,20 @@ Melhoria Proposta:
 
 **Processo de Acesso Remoto**
 
+Melhoria Proposta:
 - Desenvolvimento de uma plataforma online segura para acesso remoto aos serviços da academia.
 - Integração de aulas virtuais ao vivo e sob demanda para clientes que preferem treinar em casa.
 - Disponibilização de conteúdo exclusivo e personalizado para assinantes do serviço remoto.
 - Suporte técnico dedicado para garantir uma experiência contínua e sem interrupções.
+
+Processo: Cadastro de Usuários
+
+Melhoria Proposta:
+- Desenvolvimento de um sistema de cadastro online acessível por meio de aplicativo móvel e website.
+- Formulários digitais intuitivos para coleta de informações básicas dos clientes.
+- Envio automático de confirmação de cadastro e boas-vindas aos novos clientes.
+- Armazenamento seguro e centralizado das informações dos clientes em um banco de dados.
+- Possibilidade de os clientes atualizarem suas informações e preferências de forma autônoma.
 
 ### 3.3. Modelagem dos processos
 
@@ -70,4 +80,5 @@ Melhoria Proposta:
 [PROCESSO 2 - Acesso Remoto] ![Imagem do WhatsApp de 2024-04-07 à(s) 16 47 17_112a89f4](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/144366436/c5dc5914-c2a9-4c81-ba59-92fb67337618)
 
 
-[PROCESSO 3 - Nome do Processo](./processos/processo-3-nome-do-processo.md "Detalhamento do Processo 3.")
+[PROCESSO 3 - Cadastro de Usuários] ![imagem_2024-05-05_180910070](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/144366436/030575d8-b5d1-4152-bf75-fdb550199971)
+
