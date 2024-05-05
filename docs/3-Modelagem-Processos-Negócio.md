@@ -33,10 +33,6 @@ Feedback e Melhorias:
 - A coleta de feedback dos usuários é informal e não estruturada.
 - Não há processos claros para implementar melhorias com base nos insights dos usuários ou nos dados de desempenho.
 
-
-Com o tema do projeto definido, escolham alguns processos neste contexto de negócios. Para ilustrar potenciais ganhos com a automatização, imaginem processos manuais, ineficientes e/ou com muitas idas e vindas, gerando, assim, retrabalho.
-Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
-
 ### 3.2. Descrição geral da proposta
 
 A proposta de solução visa automatizar e otimizar os processos da academia através da implementação de um software acessível para todos os grupos que participam do negócio, esse sistema estará disponível tanto para mobile quanto para desktop e permitirá um ótimo gerenciamento e persistência de dados, sendo parte desses dados acessíveis para os próprios clientes, visando a melhoria da qualidade de seus treinos. Essa proposta demanda um rigoroso planejamento e orçamento diante dos limites como custos e adaptações que vêm surgindo com o tempo. O objetivo é aumentar a eficiência, a produtividade, além de proporcionar uma melhor experiência aos clientes.
