@@ -52,11 +52,11 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 #### 4.3.1 Modelo de dados( ENTIDADE RELACIONAMENTO )
 
-![DIAGRAMA ENTIDADE RELACIONAMENTO (2)](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/5f775d15-417e-4594-a033-f7529ce30d06)
+![DIAGRAMA ENTIDADE RELACIONAMENTO (3)](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/601410ac-bba5-4d7a-bca8-8c9eaa0d0272)
 
 #### 4.3.2 Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+Arquivo bando de dados incluido na pasta src/bd!
 
 ### 4.4. Tecnologias
 
