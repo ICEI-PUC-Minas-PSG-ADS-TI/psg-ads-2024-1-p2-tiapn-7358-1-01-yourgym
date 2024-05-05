@@ -1,4 +1,4 @@
-## 4. Projeto da Solução
+![Diagrama arquitetura software Yourgym drawio](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/8d935d34-484c-44c0-8dba-c1c743021e81)## 4. Projeto da Solução
 
 <span style="color:red">Pré-requisitos: <a href="03-Modelagem do Processo de Negocio.md"> Modelagem do Processo de Negocio</a></span>
 
@@ -7,12 +7,11 @@
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
- Inclua um diagrama da solução e descreva os módulos e as tecnologias
- que fazem parte da solução. Discorra sobre o diagrama.
+ **Diagrama de Arquitetura**:
  
- **Exemplo do diagrama de Arquitetura**:
+![Diagrama arquitetura software Yourgym drawio](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/53f4d6db-e5fc-4940-ac0c-5f145e64fc4b)
+
  
- ![Exemplo de Arquitetura](./images/arquitetura-exemplo.png)
  
 
 ### 4.2. Protótipos de telas
