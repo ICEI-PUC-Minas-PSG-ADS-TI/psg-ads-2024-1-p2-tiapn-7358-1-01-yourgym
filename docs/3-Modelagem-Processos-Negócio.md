@@ -39,19 +39,28 @@ Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoi
 
 ### 3.2. Descrição geral da proposta
 
-Tendo identificado os gargalos dos modelos AS IS, apresentem uma descrição da proposta de solução, buscando maior eficiência com a introdução da tecnologia. Abordem também os limites dessa solução e o seu alinhamento com as estratégias e objetivos do contexto de negócio escolhido. 
-Colem aqui os modelos da solução proposta (modelo TO BE) elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
-Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.
+A proposta de solução visa automatizar e otimizar os processos da academia através da implementação de um software acessível para todos os grupos que participam do negócio, esse sistema estará disponível tanto para mobile quanto para desktop e permitirá um ótimo gerenciamento e persistência de dados, sendo parte desses dados acessíveis para os próprios clientes, visando a melhoria da qualidade de seus treinos. Essa proposta demanda um rigoroso planejamento e orçamento diante dos limites como custos e adaptações que vêm surgindo com o tempo. O objetivo é aumentar a eficiência, a produtividade, além de proporcionar uma melhor experiência aos clientes.
 
-A proposta de solução visa automatizar e otimizar os processos da academia através da
-implementação de um software acessível para todos os grupos que participam do negócio,
-esse sistema estará disponível tanto para mobile quanto para desktop e permitirá um ótimo
-gerenciamento e persistência de dados, sendo parte desses dados acessíveis para os próprios
-clientes, visando a melhoria da qualidade de seus treinos.
-Essa proposta demanda um rigoroso planejamento e orçamento diante dos limites como
-custos e adaptações que vêm surgindo com o tempo.
-O objetivo é aumentar a eficiência, a produtividade, além de proporcionar uma melhor
-experiência aos clientes.
+- Limitações e Desafios:
+A implementação dessa solução enfrentará desafios como custos de desenvolvimento e adaptação à infraestrutura existente nas academias. Além disso, é crucial considerar a aceitação e adoção pelos usuários, garantindo uma transição suave e treinamento adequado para a equipe.
+
+- Alinhamento com Objetivos do Negócio:
+A proposta de solução está alinhada com os objetivos estratégicos do negócio, buscando aumentar a eficiência operacional, melhorar a experiência dos clientes e promover a sustentabilidade do negócio por meio da utilização inteligente dos recursos disponíveis.
+
+**Processo Feedback dos Clientes**
+
+Melhoria Proposta:
+- Implementação de um sistema de feedback automatizado após cada sessão de treino.
+- Introdução de formulários digitais intuitivos para coleta de opiniões e sugestões dos clientes.
+- Análise automática dos dados de feedback para identificar tendências e áreas de melhoria.
+- Integração com o sistema de gerenciamento para encaminhamento rápido de problemas identificados.
+
+**Processo de Acesso Remoto**
+
+- Desenvolvimento de uma plataforma online segura para acesso remoto aos serviços da academia.
+- Integração de aulas virtuais ao vivo e sob demanda para clientes que preferem treinar em casa.
+- Disponibilização de conteúdo exclusivo e personalizado para assinantes do serviço remoto.
+- Suporte técnico dedicado para garantir uma experiência contínua e sem interrupções.
 
 ### 3.3. Modelagem dos processos
 
