@@ -4,16 +4,24 @@
 
 ## 4.1. Arquitetura da solução
 
+**Arquitetura Full-Stack com React, Node.Js, PostgreSQL e Prisma**
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+A arquitetura deste projeto full-stack é baseada em tecnologias modernas e eficientes para criar uma aplicação web robusta e escalável. Desde o frontend até o backend, cada camada desempenha um papel fundamental na entrega de uma experiência de usuário dinâmica e responsiva.
+
+**Frontend (Cliente):**
+No lado do cliente, utilizamos o framework React, conhecido por sua flexibilidade e reatividade na construção de interfaces de usuário interativas. Para o gerenciamento do estado da aplicação, empregamos o Redux, permitindo um controle centralizado e previsível do estado da aplicação.
+A biblioteca Axios é empregada para realizar requisições HTTP ao backend de forma eficiente e assíncrona, garantindo uma comunicação fluida entre o cliente e o servidor.
+
+**Backend (Servidor):**
+No lado do servidor, adotamos o ambiente de execução Node.js juntamente com o framework Express.js, que proporciona uma abordagem minimalista e robusta para a criação de APIs RESTful. Para o acesso e manipulação dos dados no banco de dados PostgreSQL, integramos o ORM Prisma. O Prisma oferece uma camada de abstração poderosa sobre o banco de dados, permitindo que operações CRUD sejam realizadas de forma simplificada e segura.
+
+**Banco de Dados:**
+O PostgreSQL foi escolhido como sistema de gerenciamento de banco de dados relacional devido à sua robustez, escalabilidade e suporte avançado para transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade)
 
  **Diagrama de Arquitetura**:
- 
+
 ![Diagrama arquitetura software Yourgym drawio](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/3a0a572d-ccb2-40bc-8694-7cebb5818a5e)
 
-
- 
- 
 
 ### 4.2. Protótipos de telas
 
@@ -69,15 +77,40 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ### 4.4. Tecnologias
 
-_Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas._
+**Linguagem:** 
+-Typescript
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+**Serviços web:**
+- Aws
+- GitHub
+- Figma
+  
+**Frameworks:**
+- React
 
+**Bibliotecas:**
+- Axios
+- Material-UI
+- Redux
+- React Router
+- Node.js
+- Express.js
+- Prisma
+- ESLint
+- Prettier
+- React-hook-form
+- Jest
+
+**IDEs de desenvolvimento:**
+- Visual Studio Code
+
+**Ferramentas:**
+- Insomnia
 
 | **Dimensão**   | **Tecnologia**  |
 | ---            | ---             |
-| SGBD           | MySQL           |
-| Front end      | HTML+CSS+JS     |
-| Back end       | Java SpringBoot |
+| SGBD           | Postgresql      |
+| Front end      | React +  MUI    |
+| Back end       | Node + Express  |
 | Deploy         | Github Pages    |
 
