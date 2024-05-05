@@ -18,7 +18,15 @@ Tendo identificado os gargalos dos modelos AS IS, apresentem uma descrição da 
 Colem aqui os modelos da solução proposta (modelo TO BE) elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
 Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.
 
-_Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias._
+A proposta de solução visa automatizar e otimizar os processos da academia através da
+implementação de um software acessível para todos os grupos que participam do negócio,
+esse sistema estará disponível tanto para mobile quanto para desktop e permitirá um ótimo
+gerenciamento e persistência de dados, sendo parte desses dados acessíveis para os próprios
+clientes, visando a melhoria da qualidade de seus treinos.
+Essa proposta demanda um rigoroso planejamento e orçamento diante dos limites como
+custos e adaptações que vêm surgindo com o tempo.
+O objetivo é aumentar a eficiência, a produtividade, além de proporcionar uma melhor
+experiência aos clientes.
 
 ### 3.3. Modelagem dos processos
 
