@@ -39,6 +39,18 @@ Ana Santos
 
 ## Histórias de Usuários
 
+Maria chega à academia após o trabalho, por volta das 18h, mas encontra todos os
+equipamentos ocupados. Ela desiste do treino e volta para casa, desmotivada.
+
+João planeja sua rotina de treino com antecedência, mas mesmo assim enfrenta dificuldades
+para encontrar os equipamentos livres nos horários de pico. Isso afeta sua progressão nos
+exercícios.
+
+Ana recebe constantes reclamações dos clientes sobre a superlotação e a espera pelos
+equipamentos. Ela reconhece a necessidade de implementar soluções para melhorar a
+experiência dos frequentadores.
+
+
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
@@ -65,8 +77,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Cadastro de Usuario | MUITO ALTA | 
+|RF-002| Notificação de Horario de Pico   | MUITO ALTA |
+|RF-003| Acesso Remoto   | MUITO ALTA |
+|RF-004| Feedback dos Usuarios   | BAIXA |
+|RF-005| Relatorio de Utilização   | ALTA |
+|RF-006| Personalização de Perfis   | BAIXA |
+|RF-007| Gerenciamento de de Equipamentos em Manuntenção   | MUITO ALTA |
 
 ### Requisitos não Funcionais
 
