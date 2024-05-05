@@ -52,7 +52,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 #### 4.3.1 Modelo de dados( ENTIDADE RELACIONAMENTO )
 
-![DIAGRAMA ENTIDADE RELACIONAMENTO](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/3961f3fd-092e-468b-b027-0d0627920d9e)
+![DIAGRAMA ENTIDADE RELACIONAMENTO (2)](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/121045908/5f775d15-417e-4594-a033-f7529ce30d06)
 
 #### 4.3.2 Modelo Físico
 
