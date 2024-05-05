@@ -28,7 +28,15 @@ O PostgreSQL foi escolhido como sistema de gerenciamento de banco de dados relac
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a>.
 A partir das atividades de usuário identificadas na seção anterior, elabore o protótipo de tela de cada uma delas.
-![Exemplo de Wireframe](images/wireframe-example.png)
+
+![PAGINA DE NOTIFICAÇÕES](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/141431894/914121b0-2b27-488e-9fd4-34acec9148f9)
+![DASHBOARD INFORMAÇÕES DE TREINO](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/141431894/7d26d90f-b2c0-4d7f-a6d0-e22e540e3c2e)
+![DASHBOARD INFORMAÇÕES ACADEMIA](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/141431894/7b618e5f-f61d-44cc-b990-8647d9edc15a)
+![DASHBOARD ALUNO](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/141431894/521ae78a-d56d-422d-8353-cbef05d0da2b)
+![PAGINA DE CADASTRO](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/141431894/388217ba-d4f3-4c96-a118-867e79466a08)
+![Untitled](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/141431894/3b0c18b4-7cac-486e-8871-80d80d011fd6)
+![DASHBOARD INFORMAÇÕES ALUNO](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-yourgym/assets/141431894/34a9fd3f-9075-46c4-9284-ec9f2214702e)
+
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
