@@ -78,7 +78,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 ### 4.4. Tecnologias
 
 **Linguagem:** 
--Typescript
+- Typescript
 
 **Serviços web:**
 - Aws
