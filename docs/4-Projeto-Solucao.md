@@ -56,8 +56,41 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 #### 4.3.2 Modelo Físico
 
-Arquivo bando de dados incluido na pasta src/bd!
+Codigo de criação banco de tabela utilizados:
 
+CREATE TABLE Equipamento(
+	id_equip INTEGER NOT NULL,
+	nome_equip VARCHAR(255),
+	status_equip BOOLEAN,
+	ultima_manutencao DATE,
+	PRIMARY KEY(id_equip)
+);
+
+CREATE DOMAIN dm_name VARCHAR(255);
+
+CREATE TABLE endereco(
+	id_endereco INTEGER NOT NULL,
+	rua VARCHAR(255),
+	cidade VARCHAR(100),
+	estado VARCHAR(50),
+	cep VARCHAR(10),
+	PRIMARY KEY(id_endereco)
+);
+
+CREATE TABLE usuario(
+	id_usuario INTEGER NOT NULL,
+	nome dm_name,
+	email VARCHAR(255),
+	senha INTEGER,
+	cli_endereco INTEGER,
+	PRIMARY KEY (id_usuario),
+	FOREIGN KEY (cli_endereco) REFERENCES endereco (id_endereco)
+);
+
+CREATE TABLE tipoUsuario (
+ 	usuario_id INT PRIMARY KEY REFERENCES usuario (id_usuario),
+    tipo VARCHAR(255)
+);
 ### 4.4. Tecnologias
 
 **Linguagem:** 
