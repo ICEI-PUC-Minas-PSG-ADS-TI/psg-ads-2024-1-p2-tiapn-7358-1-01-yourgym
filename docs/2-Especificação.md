@@ -80,8 +80,38 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| Segurança da Informação | ALTA | 
+|02| Restrição de Tempo | ALTA | 
+|03| Escalabilidade | ALTA | 
+|04| Restrição de Tecnologia | ALTA | 
+|05| Segurança da Informação | BAIXA | 
+|06| Restrição de Tempo | BAIXA | 
+|07| Escalabilidade | BAIXA | 
+|08| Restrição de Tecnologia | BAIXA | 
+
+01 Restrição de Segurança da Informação:
+- Solução: Implementar criptografia robusta para proteger os dados dos usuários durante o armazenamento e transmissão. Utilizar autenticação multifatorial para garantir a segurança das contas dos clientes. Manter sistemas atualizados com patches de segurança para proteção contra ataques cibernéticos.
+
+02 Restrição de Tempo:
+- Solução: Utilizar metodologias ágeis de gerenciamento de projetos para maximizar a eficiência e garantir entregas iterativas dentro dos prazos estabelecidos. Priorizar tarefas críticas e monitorar o progresso regularmente para identificar potenciais atrasos.
+
+03 Restrição de Escalabilidade:
+- Solução: Projetar a arquitetura do sistema com base em tecnologias escaláveis, como computação em nuvem e uso de serviços elásticos. Implementar técnicas de otimização de desempenho e realizar testes de carga para garantir que o sistema possa lidar com aumentos repentinos na demanda.
+
+04 Restrição de Tecnologia:
+- Solução: Realizar uma análise de requisitos detalhada para identificar as tecnologias essenciais. Considerar alternativas de código aberto e soluções prontas para uso que possam reduzir custos e simplificar a implementação. Buscar parcerias com fornecedores de tecnologia para acesso a recursos específicos necessários.
+
+05 Restrição de Localização Geográfica:
+- Solução: Adaptar o sistema para lidar com diferentes fusos horários e regulamentações locais, incorporando flexibilidade no design do software. Garantir que a infraestrutura de rede e internet seja estável e de alta velocidade em todas as localizações.
+
+06 Restrição de Customização e Personalização:
+- Solução: Adotar uma abordagem modular no design do software, permitindo que recursos sejam facilmente adicionados, removidos ou personalizados conforme necessário. Fornecer opções de configuração para atender às necessidades específicas dos clientes sem comprometer a integridade do sistema.
+
+07 Restrição de Disponibilidade de Dados:
+- Solução: Utilizar algoritmos de aprendizado de máquina e técnicas de preenchimento de dados para lidar com limitações na disponibilidade ou qualidade dos dados. Implementar estratégias de validação e limpeza de dados para melhorar a precisão das análises.
+
+08 Restrição de Aceitação do Usuário:
+- Solução: Envolva os usuários desde o início do projeto por meio de workshops e grupos focais para entender suas necessidades e expectativas. Realizar testes de usabilidade frequentes e iterativos para garantir uma interface intuitiva e amigável ao usuário. Fornecer treinamento e suporte contínuo para facilitar a adoção do sistema.
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
