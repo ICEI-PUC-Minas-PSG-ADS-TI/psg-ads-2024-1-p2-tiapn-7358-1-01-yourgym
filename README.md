@@ -6,7 +6,7 @@
 
 `2°-SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O aumento significativo no número de frequentadores de academias, refletido por um crescimento de 35% nas transações registradas pelo Itaú Unibanco, está gerando superlotação e um ambiente estressante nas academias. Este projeto visa desenvolver soluções para reduzir a superlotação, melhorar a experiência dos usuários e promover hábitos saudáveis de forma sustentável.
 
 ## Integrantes
 
