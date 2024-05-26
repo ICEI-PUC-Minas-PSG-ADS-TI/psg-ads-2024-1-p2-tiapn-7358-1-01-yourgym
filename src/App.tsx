@@ -1,25 +1,39 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Route, Routes } from 'react-router-dom';
+import SideMenu from './components/sideMenu/sideMenu';
+import GymInfo from './pages/gymInfo/GymInfo';
+import Notifications from './pages/notifications/Notifications';
+import { useState } from 'react';
+import SignUp from './pages/signup/signup';
+import Login from './pages/login/login';
+import TrainingInfo from './pages/trainingInfo/TrainingInfo';
+import UserInfo from './pages/userInfo/UserInfo';
+
+
 
 function App() {
+  const [isLogged, setIsLogged] = useState(false);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+     {isLogged? 
+      <>
+      <SideMenu setIsLogged={setIsLogged}/>
+      <Routes>
+        <Route path='/dashboard' element={<GymInfo/>}/>
+        <Route path='/gyminfo' element={<GymInfo/>}/>
+        <Route path='/notifications' element={<Notifications />}/>
+        <Route path='/traininginfo' element={<TrainingInfo/>}/>
+        <Route path='/userinfo' element={<UserInfo/>}/>
+        {/* <Route path='/login' element={<Login setIsLogged={setIsLogged}/>}/>
+        <Route path='/signup' element={<SignUp setIsLogged={setIsLogged}/>}/> */}
+      </Routes>
+      </>
+      :
+      <Routes>
+        <Route path='/' element={<Login setIsLogged={setIsLogged}/>}/>
+        <Route path='/signup' element={<SignUp setIsLogged={setIsLogged}/>}/>
+      </Routes>
+      }
+    </>
   );
 }
 
