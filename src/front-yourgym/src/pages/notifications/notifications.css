@@ -1,0 +1,53 @@
+
+.main-content {
+    flex-grow: 1;
+    background-color: #f4f4f4;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.notification-list {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.notification {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.notification-title {
+    font-weight: bold;
+}
+
+.notification-description {
+    display: none;
+    padding-top: 10px;
+    color: #333;
+}
+
+.notification:last-child {
+    border-bottom: none;
+}
+
+.notification:hover,
+.notification.selected {
+    background-color: #fdb813;
+    color: white;
+}
+
+.notification.selected {
+    background-color: #ffa500;
+}
+
+.notification.selected .notification-description {
+    display: block;
+}
