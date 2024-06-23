@@ -2,8 +2,8 @@ import React from 'react';
 import InfoHeader from '../../components/infoHeader/infoHeader';
 import { Bar, BarChart, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 
-function UserInfo() {
-  const userData = [
+function UserInfo({ userData }: any) {
+  const userDataWeek = [
     { Dia: '2024-05-01', Horas: 2 },
     { Dia: '2024-05-02', Horas: 0 },
     { Dia: '2024-05-03', Horas: 3 },
@@ -15,11 +15,11 @@ function UserInfo() {
 
   return (
     <div className='main-content'>
-      <InfoHeader />
+      <InfoHeader userData={userData}/>
       <div className="chart-container">
         <h2>Frequencia em horas por dia</h2>
         <ResponsiveContainer width="100%" height={400}>
-          <BarChart data={userData}>
+          <BarChart data={userDataWeek}>
             <XAxis dataKey="Dia" interval={1}/>
             <YAxis dataKey="Horas"/>
             <Tooltip />

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import InfoHeader from '../../components/infoHeader/infoHeader';
 import '../trainingInfo/training.css';
 
-function TrainingInfo() {
+function TrainingInfo({userData} : any) {
   const [activeTraining, setActiveTraining] = useState<string | null>(null);
 
   const trainings = [
@@ -17,7 +17,7 @@ function TrainingInfo() {
 
   return (
     <div className="main-content">
-      <InfoHeader />
+      <InfoHeader userData={userData}/>
       <div id="training-info">
         <h2>Informações de Treino</h2>
         <div className="training-container">

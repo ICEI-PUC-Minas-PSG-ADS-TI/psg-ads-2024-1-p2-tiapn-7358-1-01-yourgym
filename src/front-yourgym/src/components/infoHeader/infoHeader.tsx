@@ -3,11 +3,10 @@ import { Link } from 'react-router-dom'
 import userImage from '../../assets/user.png'
 import { DashboardActiveTabContext } from '../../hooks/useDashboardActiveTab';
 
-function InfoHeader() {
+function InfoHeader({userData}: any) {
 
   const { activeTab, setActiveTab } = useContext(DashboardActiveTabContext)
-  console.log(activeTab)
-  console.log(setActiveTab)
+          
   const handleTabClick = (tabName: string) => {
     setActiveTab(tabName);
 };
@@ -17,8 +16,8 @@ return (
         <div className="user-info">
             <img src={userImage} alt="User" className="user-img"></img>
             <div className="user-details">
-                <span className="user-name">Nome Aluno</span>
-                <span className="user-email">email_aluno@gmail.com</span>
+                <span className="user-name">{userData.name}</span>
+                <span className="user-email">{userData.email}</span>
             </div>
         </div>
         <div className="tabs">

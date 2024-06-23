@@ -8,11 +8,11 @@ import { Link } from 'react-router-dom';
 import InfoHeader from '../../components/infoHeader/infoHeader';
 
 
-function GymInfo() {
+function GymInfo({userData}: any) {
 
   return (
     <div className="main-content">
-        <InfoHeader />
+        <InfoHeader userData={userData}/>
         <div className="chart-container">
             <h2>Média de Público por Horário</h2>
             <ResponsiveContainer width="100%" height={400}>

@@ -11,26 +11,31 @@ import UserInfo from './pages/userInfo/UserInfo';
 
 
 function App() {
+
   const [isLogged, setIsLogged] = useState(false);
+  const [userData, setUserData] = useState({});
+
   return (
     <>
      {isLogged? 
       <>
       <SideMenu setIsLogged={setIsLogged}/>
       <Routes>
-        <Route path='/dashboard' element={<GymInfo/>}/>
-        <Route path='/gyminfo' element={<GymInfo/>}/>
+        <Route path='/dashboard' element={<GymInfo userData={userData}/>}/>
+        <Route path='/gyminfo' element={<GymInfo userData={userData}/>}/>
         <Route path='/notifications' element={<Notifications />}/>
-        <Route path='/traininginfo' element={<TrainingInfo/>}/>
-        <Route path='/userinfo' element={<UserInfo/>}/>
+        <Route path='/traininginfo' element={<TrainingInfo userData={userData}/>}/>
+        <Route path='/userinfo' element={<UserInfo userData={userData}/>}/>
         {/* <Route path='/login' element={<Login setIsLogged={setIsLogged}/>}/>
         <Route path='/signup' element={<SignUp setIsLogged={setIsLogged}/>}/> */}
       </Routes>
       </>
+
       :
+      
       <Routes>
-        <Route path='/' element={<Login setIsLogged={setIsLogged}/>}/>
-        <Route path='/signup' element={<SignUp setIsLogged={setIsLogged}/>}/>
+        <Route path='/' element={<Login setIsLogged={setIsLogged} setUserData={setUserData}/>}/>
+        <Route path='/signup' element={<SignUp setIsLogged={setIsLogged} setUserData={setUserData}/>}/>
       </Routes>
       }
     </>
